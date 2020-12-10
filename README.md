@@ -1,16 +1,26 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**nshonda/nshonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Hi! My name is Natali Honda, I'm a <strong>Fullstack Developer</strong>. I mainly focus on the skills listed below but willing to learn and excited about new technologies and different ways to manage and deliver results.<br>
+  I've graduated in Computer Science at UEL (Londrina State University).
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  💎 Skills: <strong>PHP, HTML, CSS, Javascript, SQL, ReactJS, Vue.js, Laravel, Wordpress.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  🛠️ Tools: <strong>Visual Studio Code, Postman, Git and Github</strong>
+</p>
+
+<p align="left">
+  ✉️ If you would like to contact me, feel free to send me a message: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:natalihonda@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=natalihonda@gmail.com" /></a>
+
+  <a href="https://www.linkedin.com/in/nshonda/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nshonda/" /></a>
+</p>  
