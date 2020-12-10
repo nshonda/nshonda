@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi! My name is Natali Honda, I'm a <strong>Fullstack Developer</strong>. I mainly focus on the skills listed below but willing to learn and excited about new technologies and different ways to manage and deliver results.<br>
+  Hi! My name is Natali Honda, I'm a <strong>Fullstack Developer</strong>. I'm mainly focus on the skills listed below but willing to learn and excited about new technologies and different ways to manage and deliver results.<br>
   I've graduated in Computer Science at UEL (Londrina State University).
 </p>
 
