@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  💎 Skills: <strong>PHP, HTML, CSS, Javascript, SQL, ReactJS, Vue.js, Laravel, Wordpress.</strong>
+  💎 Skills: <strong>PHP, HTML, CSS, Javascript, SQL, ReactJS, Vue.js, Laravel, Wordpress, Flutter.</strong>
 </p>
 
 <p align="left">
